@@ -7,7 +7,7 @@
 
 ###[FeF6]3- ![img_5.png](img_5.png)
 
-**Magnetic Movement**: Bohr Magneton
+**Magnetic Movement**: Bohr Magnetron
 /formula/
 
 ###[Co(NH3)6]3+
@@ -21,7 +21,7 @@
 ![img_8.png](img_8.png)
 
 ##Limitation of VBT
-* When we predict structure of we can't differentiate on Weak Field Lignad and Strong Field.
+* When we predict structure of we can't differentiate on Weak Field Ligand and Strong Field.
 * Colours can't be explained.
 
 ###[Hand-outs]()
