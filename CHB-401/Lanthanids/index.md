@@ -1,5 +1,5 @@
 #Lantanids
-inner transistion metals : Not similar to Transistion metals.
+inner transistion metals : Lanthanum
 ![img.png](img.png)
 First element in the series is Cereium (first e- filling in f-orbital)
 ##Oxidation State
@@ -26,5 +26,5 @@ Tb
   * due to poor shielding of 4f
 
 ##Handouts
-* [LibreTexts - Lantanides](./Lanthanides.pdf)
-* [LibreTexts - Contraction](./Lanthanide Contraction.pdf)
+* [LibreTexts - Lantanides]('./Lanthanides.pdf')
+* [LibreTexts - Contraction]('./Lanthanide Contraction.pdf')
