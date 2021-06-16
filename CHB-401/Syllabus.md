@@ -1,6 +1,6 @@
 ---
 created: 2021-06-17T00:18:31+05:30
-modified: 2021-06-17T00:31:22+05:30
+modified: 2021-06-17T00:34:28+05:30
 ---
 
 # Syllabus
@@ -30,7 +30,7 @@ modified: 2021-06-17T00:31:22+05:30
     * Sidgwick’s EAN concept
     * Valence Bond Theory. 
     * Stereochemistry of coordination compounds with coordination nos. 4, 5 and 6.
-* [Lanthanides](Lanthanides/index.md): Comparative study of lanthanide elements with respect to electronic configuration atomic and ionic radii, oxidation state, lanthanide contraction.
+* [Lanthanides](/Lanthanides/index.md): Comparative study of lanthanide elements with respect to electronic configuration atomic and ionic radii, oxidation state, lanthanide contraction.
 
 #### Suggested Readings:
 
