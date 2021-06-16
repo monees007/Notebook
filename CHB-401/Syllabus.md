@@ -1,17 +1,38 @@
 ---
 created: 2021-06-17T00:18:31+05:30
-modified: 2021-06-17T00:23:05+05:30
+modified: 2021-06-17T00:31:22+05:30
 ---
 
 # Syllabus
 
-## Section A: Inorganic Chemistry-II 
-* Acids and bases: Bronsted-Lowry, Lux-Flood, Solvent System and Lewis concepts of acids and bases; Factors affecting strengths of Lewis acids and bases.  HSAB theory and applications.
-* Non-aqueous solvents: Physical properties of a solvent for functioning as an effective reaction medium, types of solvents and their general characteristics. Liq. NH3 as a non-aqueous solvent.
-* Coordination compounds: Characteristics of d- block elements with special reference to 3d series elements and coordination compounds - Werner’s theory. Isomerism, Nomenclature, Sidgwick’s EAN concept and Valence Bond Theory. Stereochemistry of coordination compounds with coordination nos. 4, 5 and 6.
-* [Lanthanides](Lanthanides/Lanthanides.md): Comparative study of lanthanide elements with respect to electronic configuration atomic and ionic radii, oxidation state, lanthanide contraction.
+### Section A: Inorganic Chemistry-II 
 
-## Suggested Readings:
+
+* Acids and bases: 
+    * Bronsted-Lowry Theory
+    * Lux-Flood Concept
+    * Solvent System Theory
+    * Lewis concepts of acids and bases
+        * Factors affecting strengths of Lewis acids and bases. 
+    * HSAB theory and applications
+
+<Br>
+* Non-aqueous solvents: 
+    * Physical properties of a solvent for functioning as an effective reaction medium.
+    * Types of solvents and their general characteristics. 
+    * Liq. NH3 as a non-aqueous solvent.
+
+* Coordination compounds: 
+    * Characteristics of d- block elements with special reference to 3d series elements and coordination compounds - 
+    * Werner’s theory
+    * Isomerism
+    * Nomenclature
+    * Sidgwick’s EAN concept
+    * Valence Bond Theory. 
+    * Stereochemistry of coordination compounds with coordination nos. 4, 5 and 6.
+* [Lanthanides](Lanthanides/index.md): Comparative study of lanthanide elements with respect to electronic configuration atomic and ionic radii, oxidation state, lanthanide contraction.
+
+#### Suggested Readings:
 
 * Recent Aspects in Inorganic Chemistry, R. C. Aggarwal, 1st Edition (1987), Kitab Mahal, Allahabad.
 * Inorganic Chemistry, J.E. Huheey,  E.A. Keiter and R.L. Keiter, 4th Edition (2006), Addison Wesley Publishing Co, NY.
