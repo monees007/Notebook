@@ -1,5 +1,5 @@
 ---
-modified: 2021-06-17T00:16:32+05:30
+modified: 2021-06-17T00:16:53+05:30
 ---
 
 # Lantanids
@@ -23,7 +23,7 @@ Yb | +2 (due to fully filled stability)
 Eu is odd since half filled stability
 Tb 
 
-##Atomic Sizes
+## Atomic Sizes
 
 * No change in size between Zr -> Hf due to Lanthanid Contraction
 * F orbital has poor shielding effect.
@@ -31,7 +31,7 @@ Tb
   * decrease in size//not increase
   * due to poor shielding of 4f
 
-##Handouts
+## Handouts
 
 * [LibreTexts - Lantanides]('./Lanthanides.pdf')
 * [LibreTexts - Contraction]('./Lanthanide Contraction.pdf')
