@@ -34,4 +34,4 @@ Tb
 ## Handouts
 
 * [LibreTexts - Lantanides](./Lanthanides.pdf)
-* [LibreTexts - Contraction]('./Lanthanide Contraction.pdf')
+* [LibreTexts - Contraction](./LanthanideContraction.pdf)
