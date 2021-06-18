@@ -1,4 +1,9 @@
-#Lantanids
+---
+modified: 2021-06-17T00:16:53+05:30
+---
+
+# Lantanids
+
 inner transistion metals : Lanthanum
 ![img.png](img.png)
 First element in the series is Cereium (first e- filling in f-orbital)
@@ -18,13 +23,15 @@ Yb | +2 (due to fully filled stability)
 Eu is odd since half filled stability
 Tb 
 
-##Atomic Sizes
+## Atomic Sizes
+
 * No change in size between Zr -> Hf due to Lanthanid Contraction
 * F orbital has poor shielding effect.
 * On moving Ce to Lu:
   * decrease in size//not increase
   * due to poor shielding of 4f
 
-##Handouts
-* [LibreTexts - Lantanides]('./Lanthanides.pdf')
-* [LibreTexts - Contraction]('./Lanthanide Contraction.pdf')
+## Handouts
+
+* [LibreTexts - Lantanides](./Lanthanides.pdf)
+* [LibreTexts - Contraction](./LanthanideContraction.pdf)

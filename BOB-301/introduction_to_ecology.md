@@ -1,8 +1,8 @@
 ---
-modified: 2021-05-19T17:16:38+05:30
+modified: 2021-06-16T23:50:10+05:30
 ---
 
-# Introduction to **Ecology**
+# Introduction to __Ecology__
 
 Scientific study of the relationship of the living organisms with each other and with their environment.
 
