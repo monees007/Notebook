@@ -16,8 +16,7 @@ modified: 2021-06-17T00:34:28+05:30
         * Factors affecting strengths of Lewis acids and bases. 
     * HSAB theory and applications
 
-<Br>
-* Non-aqueous solvents: 
+* [Non-aqueous solvents](/): 
     * Physical properties of a solvent for functioning as an effective reaction medium.
     * Types of solvents and their general characteristics. 
     * Liq. NH3 as a non-aqueous solvent.
