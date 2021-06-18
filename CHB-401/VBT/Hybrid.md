@@ -24,4 +24,4 @@
 * When we predict structure of we can't differentiate on Weak Field Ligand and Strong Field.
 * Colours can't be explained.
 
-###[Hand-outs]()
+###[Hand-outs](./VBT.pdf)

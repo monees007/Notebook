@@ -13,3 +13,8 @@ The dairy industry, covering the production, processing,
 
 ## Farm Houses
 1. The processing of the milk by the factory system
+
+## Milk
+udder - mammary gland of cattles
+
+## Processing of Milk

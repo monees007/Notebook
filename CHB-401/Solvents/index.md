@@ -1,3 +1,10 @@
+---
+## Contents
+* [Introduction](./index.md)
+* [Classification](./classification.md)
+* [Solvent](./solvents.md)
+---
+
 ## Importance of Solvent
 * Solvent provides ideal medium to achieve rate of reaction.
 * Most of the violent reactions can be slowed down  by the use of solvent.
