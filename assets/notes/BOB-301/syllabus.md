@@ -6,7 +6,7 @@ modified: 2021-05-19T17:21:02+05:30
 
 1. Introduction to Ecology [=>](/Adhikaar/BOB-301/introduction_to_ecology.md)
 2. Abiotic environment: Atmosphere, temperature, water, light and soil (structure and soil profile) [=>](/assets/BOB-301BOB-301/abiotic_components.md)                    
-3. Biotic environment: Interactions among plants, animals and man; Interactions among plants growing in a community; Interactions among plants and microorganisms. [=>](/assets/BOB-301/biotic_components.md)                                                                                                  
+3. Biotic environment: Interactions among plants, animals and man; Interactions among plants growing in a community; Interactions among plants and microorganisms. [=>](/assets/notes/BOB-301/biotic_components.md)                                                                                                  
 4. Plant adaptations in response to water availability.                                                                                            
 5. Population ecology: Population characteristics (density, dispersion, age structure, natality, mortality, survivorship curves, growth curves) ; Ecotypes and Ecads                                                                                                 
 6. Community Ecology: Analytical and synthetic characters (Frequency, Density, Cover, IVI, Life forms, Biological spectrum, Phenology, Sociability)                                                                                                                                                                                                                                                                                                       
