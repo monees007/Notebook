@@ -27,7 +27,7 @@
     3. External morphology of poultry birds (model)
     4. Visit to Poultry Farm (Poultry Management and Poultry breeds).
 
-3. [Fishery](./Fishes/index.md)
+3. [Fishery](Fishes/index.md)
     1. External morphology of fishes.
     2. Identification of two major carps
         1. *Labeo rohita*

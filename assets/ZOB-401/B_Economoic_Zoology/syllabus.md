@@ -21,7 +21,7 @@
 * Pests and their management
     * Chemical methods
     * Biological methods
-* [Animal Husbandry](./Dairy/dairy.md)
+* [Animal Husbandry](Dairy/dairy.md)
     * Dairy
     * Breeds of Bovine
     * Milk and milk products

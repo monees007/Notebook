@@ -1,8 +1,8 @@
 ---
 ## Contents
-* [Introduction](./index.md)
-* [Classification](./classification.md)
-* [Solvent](./solvents.md)
+* [Introduction](index.md)
+* [Classification](classification.md)
+* [Solvent](solvents.md)
 ---
 
 ## Importance of Solvent
